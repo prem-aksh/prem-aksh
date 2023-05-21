@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prem-aksh
-- 👀 I’m interested in ...software devlopment
+- 👀 I’m interested in ...designing
 - 🌱 I’m new to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...just dm me...
