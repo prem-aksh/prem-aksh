@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 curious mind  <br>🤝 honest hands  <br>🛠️ crafted code  <br>✨ intentional design  <br>🌱 endless pursuit  <br><br>
+🔍 curious mind <br>🤝 honest hands  <br>🛠️ crafted code  <br>✨ intentional design  <br>🌱 endless pursuit  <br><br>
 
 
 ## 🌐 Socials:
