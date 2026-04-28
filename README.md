@@ -28,6 +28,6 @@ VIT Graduate || Frontend Developer
 
 <hr>
 
-<!--![](https://komarev.com/ghpvc/?username=prem-aksh&color=red)-->
+![](https://komarev.com/ghpvc/?username=prem-aksh&color=red)
 
 <!--  -->
